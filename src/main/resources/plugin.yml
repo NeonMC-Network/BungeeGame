@@ -1,0 +1,5 @@
+main: me.naptie.bungee.game.Main
+name: NeonBungeeGame
+version: 2.0.0
+api-version: "1.15"
+author: Naptie

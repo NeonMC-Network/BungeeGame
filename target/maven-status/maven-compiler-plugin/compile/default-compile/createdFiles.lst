@@ -1,0 +1,12 @@
+me\naptie\bungee\game\Messages.class
+me\naptie\bungee\game\commands\Lobby.class
+me\naptie\bungee\game\commands\Leave.class
+me\naptie\bungee\game\utils\CU.class
+me\naptie\bungee\game\commands\Play.class
+me\naptie\bungee\game\Main.class
+me\naptie\bungee\game\utils\ServerManager$GameType.class
+me\naptie\bungee\game\utils\ServerManager.class
+me\naptie\bungee\game\tools\MySQL$Editor.class
+me\naptie\bungee\game\commands\Rejoin.class
+me\naptie\bungee\game\tools\MySQL.class
+me\naptie\bungee\game\utils\MySQLManager.class
